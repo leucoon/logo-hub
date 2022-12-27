@@ -38,7 +38,7 @@
 # Contents - 目录
 - [Introduction - 介绍](#Introduction)
 - [Requirements - 必要条件](#Requirements)
-	- [Linux OS](#Linux%%20OS)
+	- [Linux OS](#Linux%20OS)
 	- [Windows OS](#Windows%20OS)
 
 
