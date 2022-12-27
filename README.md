@@ -36,19 +36,19 @@
 </div>
 
 # Contents - 目录
-- [Introduction - 介绍](#Introduction%20-%20介绍)
-- [Requirements - 必要条件](#Requirements%20-%20必要条件)
-	- [Linux OS](#Linux%20-%20OS)
-	- [Windows OS](#Windows%20-%20OS)
+- [Introduction - 介绍](#Introduction)
+- [Requirements - 必要条件](#Requirements)
+	- [Linux OS](#Linux%%20OS)
+	- [Windows OS](#Windows%20OS)
 
 
-## Introduction - 介绍
+## Introduction
 
 ### Summary - 概要
 
 ### Features - 特性
 
-## Requirements - 必要条件（环境，对所有项目，和所有子模块和库的描述。）
+## Requirements
 
 ### Linux OS
 
